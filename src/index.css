@@ -1,0 +1,63 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+.header {
+  margin-top: 1rem;
+}
+.doctors {
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+}
+.doctors h3 {
+  cursor: pointer;
+}
+.doctor-card {
+  border: 1px solid black;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 1rem;
+  gap: 0.5rem;
+}
+
+.doctor-card img {
+  border-radius: 5px;
+}
+
+.hasta-card {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border: 1px solid black;
+  margin: 1rem;
+  padding: 1rem;
+  gap: 1rem;
+}
+.hasta-card .durum,
+button,
+span {
+  cursor: pointer;
+}
+
+.hasta-card span {
+  color: red;
+}
+.header_title {
+  text-align: center;
+}
+
+.submitButton {
+  margin-top: 1rem;
+}
