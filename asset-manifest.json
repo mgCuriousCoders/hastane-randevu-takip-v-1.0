@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/hastane-randevu-takip-v-1.0/static/css/main.d82572f5.css",
+    "main.js": "/hastane-randevu-takip-v-1.0/static/js/main.6353a193.js",
+    "static/media/Ayse.png": "/hastane-randevu-takip-v-1.0/static/media/Ayse.9d776f0a42a1d9b9bc39.png",
+    "static/media/ahmet.png": "/hastane-randevu-takip-v-1.0/static/media/ahmet.e6620882a598fc5e8f7a.png",
+    "static/media/Oya.png": "/hastane-randevu-takip-v-1.0/static/media/Oya.28f969daf8e544688993.png",
+    "static/media/Fatma.png": "/hastane-randevu-takip-v-1.0/static/media/Fatma.0ccfdbccd4c3e41d9990.png",
+    "index.html": "/hastane-randevu-takip-v-1.0/index.html",
+    "main.d82572f5.css.map": "/hastane-randevu-takip-v-1.0/static/css/main.d82572f5.css.map",
+    "main.6353a193.js.map": "/hastane-randevu-takip-v-1.0/static/js/main.6353a193.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d82572f5.css",
+    "static/js/main.6353a193.js"
+  ]
+}
